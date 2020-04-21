@@ -1,5 +1,6 @@
 package com.dlc.bridge;
 
+//具体实现类
 public class Xiaomi implements Brand{
     public void open() {
         System.out.println("小米开机");
